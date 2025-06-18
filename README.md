@@ -39,6 +39,6 @@ Monitors CPU, RAM, Disk, and alerts if usage crosses threshold.
 ## 📜 Resume & Links
 
 - 📄 [Download Resume](./resume.pdf)
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+- 💼 [LinkedIn](https://www.linkedin.com/in/uffanmanzoor/)
 - 📁 [Carrd Portfolio](https://uffanmanzoortech.carrd.co/)
-- 📫 Email: yourname@email.com
+- 📫 Email: uffanmanzoor786@gmail.com
